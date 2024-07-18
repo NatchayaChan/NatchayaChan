@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bay
+- 👋 Hi, I’m Natchaya Chanbanchee
 - 👀 I’m interested in Coding
 - 🌱 I’m currently studying Data Science
 
